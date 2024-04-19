@@ -1,0 +1,13 @@
+pwd - ver em qual pasta vc está
+git clone url - copiar e manter em sincronia
+cd pasta - mudar diretório
+git status - como está a situação
+gedit - editor de texto
+go build main.go - compila o código para ver se não tem erros
+go build *.go - compila todos os arquivos
+./main - executa o código
+git add main.go - adiciona o arquivo
+git add . - adiciona todos os arquivos
+rm - rf main - remove arquivo
+git commit -m "" - salva o arquivo
+git push - envia o arquivo pra nuvem (gitlab)
